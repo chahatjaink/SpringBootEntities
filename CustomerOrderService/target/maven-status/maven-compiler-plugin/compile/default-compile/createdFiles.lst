@@ -1,0 +1,7 @@
+com\project\customerorderservice\dao\CustomerRepository.class
+com\project\customerorderservice\enums\Category.class
+com\project\customerorderservice\domain\Customer.class
+com\project\customerorderservice\services\CustomerService.class
+com\project\customerorderservice\config\APIController.class
+com\project\customerorderservice\controller\CustomerController.class
+com\project\customerorderservice\CustomerOrderServiceApplication.class
